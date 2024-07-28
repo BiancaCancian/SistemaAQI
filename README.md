@@ -1,7 +1,7 @@
 # SistemaAQI
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7790e91-c4b4-49f9-8e4c-a968cd480af8" alt="icongit" width="750">
+ <img src="https://github.com/user-attachments/assets/7e1c46c8-6ff9-43c4-9f05-11741ca92bc5" alt="screenshot" width="750">
 </p>
 
 - Sistema em desenvolvimento utilizando Python com o framework Flask
