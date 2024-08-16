@@ -9,7 +9,7 @@
 - Checa a qualidade do ar em sua região em tempo real.
 
 ## Configuração inicial:
-- Clone o repositório e crie um ambiente virtual
+- Clone o repositório e crie um ambiente virtual.
  ```
  python3 -m venv venv
  venv/bin/activate
