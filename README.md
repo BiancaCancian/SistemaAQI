@@ -9,7 +9,7 @@
 - O sistema possui um chatbot que foi desenvolvido usando NLP (Processamento de Linguagem Natural) para responder dúvidas sobre qualidade do ar e sustentabilidade.
 
 
-## Configuração inicial:
+### Configuração inicial:
 - Clone o repositório e crie um ambiente virtual.
  ```
  python3 -m venv venv
